@@ -25,6 +25,7 @@ CarcassObservationsEvent | **icarCarcassObservationsEventResource** | icar:Carca
 Carcass | **icarCarcassResource** | icar:Carcass | icarCarcassResource.json
 ConformationScoreEvent | **icarConformationScoreEventResource** | icar:ConformationScoreEvent | icarConformationScoreEventResource.json
 DailyMilkingAverages | **icarDailyMilkingAveragesResource** | icar:DailyMilkingAverages | icarDailyMilkingAveragesResource.json
+DeviceAttentionEvent | **icarDeviceAttentionEventResource** | icar:DeviceAttentionEvent | icarDeviceAttentionEventResource.json
 Device | **icarDeviceResource** | icar:Device | icarDeviceResource.json
 DiagnosisEvent | **icarDiagnosisEventResource** | icar:DiagnosisEvent | icarDiagnosisEventResource.json
 FeedIntakeEvent | **icarFeedIntakeEventResource** | icar:FeedIntakeEvent | icarFeedIntakeEventResource.json
